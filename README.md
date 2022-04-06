@@ -9,5 +9,4 @@ Notes:
 3. For design principles, I used the transactionReference as String
 
 ToDo:
-1. Still pending unit test
-2. Security has not been added 
+1. Security has not been added yet
