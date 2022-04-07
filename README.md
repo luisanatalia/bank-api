@@ -7,6 +7,4 @@ Notes:
 1. Names for the fields in the json mesage was adapted ussing standar naming in java
 2. To mock the validation of the IBAN we just validate if the IBAN starts with '53'
 3. For design principles, I used the transactionReference as String
-
-ToDo:
-1. Security has not been added yet
+4. Security is partially implement; authentication server is not implment but there is the code for JWT validation (this is disabled because to be functional all authetication flow must be implement)
